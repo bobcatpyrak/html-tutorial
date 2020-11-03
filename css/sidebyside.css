@@ -1,0 +1,12 @@
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: darksalmon;
+}
+div
+{
+    border: 10px solid mediumspringgreen;
+    display: inline-block;
+    width: 45%;
+    min-height: 100px;
+}
